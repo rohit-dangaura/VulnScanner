@@ -1,2 +1,6 @@
 # VulnScanner
 This is a vulnerability scanner tool for web-applications based on MySql....
+
+Note: Make sure that you have nmap, sqlmap, metasploitable framework installed in your machine.
+
+                       Thank you for using our tool...
